@@ -1,6 +1,4 @@
-# NSS-Node-CodeAlong
- 
-###Coding along at NSS.
+# NSS-Backend-Notes/Practice
 
 * Node
 * Express
