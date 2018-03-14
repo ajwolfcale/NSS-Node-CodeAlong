@@ -7,7 +7,3 @@ movieRouter.get("/movies", getAllMovies);
 movieRouter.get('/movies/:movieId', getOneMovie);
 
 module.exports = movieRouter;
-
-
-
-

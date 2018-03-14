@@ -7,4 +7,3 @@ dirRouter.get('/directors/:dirId', getOneDirector);
 
 
 module.exports = dirRouter;
-
